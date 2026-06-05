@@ -10,5 +10,5 @@ Scenario Outline: Fetch watch name and price details
 Examples:
   | category | brand    | pageNumber |
   | Men      | Titan    | 2          |
-  | Men      | Fastrack | 4          |
-  | Women    | Topwear  | 5          |
+  | Men      | Fastrack | 3          |
+  | Women    | Topwear  | 3          |
