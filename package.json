@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js"
-  },
-  "keywords": [],
-  "author": "",
+    "test": "cucumber-js --tags @smoke",
+    "test:cucumber": "cucumber-js"
+    },
+    "keywords": [],
+    "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

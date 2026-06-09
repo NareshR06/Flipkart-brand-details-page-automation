@@ -1,5 +1,6 @@
 Feature: Mens titan watch brand page
 
+@smoke
 Scenario Outline: Fetch watch name and price details
   Given Enter into the page
   When Enter into "<category>" category in the mega menu
